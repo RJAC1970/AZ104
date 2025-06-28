@@ -32,19 +32,25 @@ Backup e recuperação	Configurar backup e recuperação	Lab – Azure Recovery 
 📘 Materiais
 
 Estude pelo Microsoft Learn Acesse o guia de estudo oficial da Microsoft com trilhas interativas e gratuitas.
+
 👉 https://learn.microsoft.com/pt-pt/credentials/certifications/resources/study-guides/az-104
 
 Pratique com laboratórios reais Crie uma conta gratuita no Azure para testar recursos como VMs, redes e armazenamento.
+
 👉 https://azure.microsoft.com/pt-br/free/
 
 Use simulados e flashcards Confira o repositório do psjmaster no GitHub com simulados e resumos em português.
+
 👉 https://github.com/psjmaster/guia_estudo_az-104
 
 Documente seu aprendizado Uma sugestão prática: use o Notion ou o OneNote para organizar seus resumos e comandos.
+
 👉 https://www.notion.so/
 
 Participe de comunidades Explore fóruns como o Tech Community da Microsoft ou grupos no LinkedIn e Telegram sobre Azure.
+
 👉 https://techcommunity.microsoft.com/
 
 Simule o ambiente da prova Plataformas como Udemy oferecem testes práticos com temporizador para treinar sob pressão.
+
 👉 https://www.udemy.com/course/microsoft-azure-administrator-az-104-teste-pratico/
